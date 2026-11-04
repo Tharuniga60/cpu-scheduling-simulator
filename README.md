@@ -2,7 +2,7 @@
 
 An interactive, browser-based simulator for CPU scheduling algorithms. Each algorithm has its own simulation lab with tick-by-tick playback, live ready queues, an animated Gantt chart, an event log and complete metrics.
 
-**Live demo:** https://tharuniga-cpu-scheduler.vercel.app
+**Live demo:** https://cpu-scheduling-simulator-gilt-nine.vercel.app
 
 ## Algorithms
 
